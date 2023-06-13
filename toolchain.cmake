@@ -63,6 +63,7 @@ set(EGL_LIBRARY ${XCB_PATH_VARIABLE}/usr/lib/aarch64-linux-gnu/libEGL.so)
 
 set(OPENGL_INCLUDE_DIR ${GL_INC_DIR})
 set(OPENGL_opengl_LIBRARY ${XCB_PATH_VARIABLE}/usr/lib/aarch64-linux-gnu/libOpenGL.so)
+set(OpenGL_DIR ${XCB_PATH_VARIABLE}/usr/lib/aarch64-linux-gnu)
 
 set(GLESv2_INCLUDE_DIR ${GL_INC_DIR})
 set(GLIB_LIBRARY ${XCB_PATH_VARIABLE}/usr/lib/aarch64-linux-gnu/libGLESv2.so)

@@ -1,0 +1,6 @@
+qt5
+qt-host
+qt-host-build
+qt-raspi
+qt-raspi-build
+rpi-sysroot
